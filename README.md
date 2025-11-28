@@ -44,9 +44,9 @@ Click the "Generate extension with AI" button
 The AI will generate the extension code and install it automatically.
 
 #### Build Extensions with with the code editor
-- Select the code deitor tab
+- Select the code editor tab
 - use the template of your choice
-- enter .py code
+- enter python code
 - Click the Save Load Extension Button this will install it automatically.
   
 #### Build Extensions manually

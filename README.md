@@ -3,19 +3,18 @@ A Python-based browser where you can create custom extensions using natural lang
 
 ## Installation
 
-### Download and Run
-```bash
-git clone https://github.com/exfo999/kai-browser.git
-cd kai-browser/dist
-mkdir -p modules
+# Download and extract
+tar -xzf kai-browser-linux.tar.gz
+cd dist
+
+# Make executable (if needed)
 chmod +x kai_browser
+
+# Run
 ./kai_browser
-```
 
 ### Requirements
 - Linux (tested on Ubuntu)
-- Python 3.x (if not using pre-compiled version)
-
 ---
 
 ## Usage

@@ -1,9 +1,14 @@
 # Kai Browser
 A Python-based browser where you can create custom extensions using natural language. Describe what you want, and AI builds it.
 
-## Download the latest release
+## Installation
 
-## Extract 
+### Download the Latest Release
+[Download Kai Browser](https://github.com/exfo999/kai-browser/releases/latest)
+
+### Extract and Run
+```bash
+# Extract the archive
 tar -xzf kai-browser-linux.tar.gz
 cd dist
 
@@ -12,9 +17,11 @@ chmod +x kai_browser
 
 # Run
 ./kai_browser
+```
 
 ### Requirements
 - Linux (tested on Ubuntu)
+
 ---
 
 ## Usage

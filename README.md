@@ -80,8 +80,21 @@ Kai Browser features an **AI-powered extension builder** that lets you create br
 ## Managing Extensions
 
 - View active extensions in the **Manage** tab
-- Enable/disable extensions as needed
+- Enable/disable extensions in the extensions dropdown menu in the main browser window
+- Access the **Marketplace** button in the extensions dropdown to browse and download community extensions
 - Modify extensions by re-generating with updated natural language prompts
+
+---
+
+## Extension Marketplace
+
+### Download Extensions
+- Visit [kaibrowser.com/marketplace](https://kaibrowser.com/marketplace) 
+- **Or** click the **Marketplace** button in the extensions dropdown menu within the browser
+
+### Share Your Extensions
+- Upload your extensions at [kaibrowser.com/upload](https://kaibrowser.com/upload)
+- Sign in to manage your uploaded extensions in **My Extensions**
 
 ---
 
